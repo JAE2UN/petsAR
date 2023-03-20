@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PetsAR_v1.iml" filepath="$PROJECT_DIR$/.idea/modules/PetsAR_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PetsAR_v1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PetsAR_v1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/PetsAR_v1.lib_interpreter.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/PetsAR_v1.lib_interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_task_api/PetsAR_v1.lib_task_api.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_task_api/PetsAR_v1.lib_task_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugins/PetsAR_v1.plugins.iml" filepath="$PROJECT_DIR$/.idea/modules/plugins/PetsAR_v1.plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikitude-sdk/PetsAR_v1.wikitude-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/wikitude-sdk/PetsAR_v1.wikitude-sdk.iml" />
+    </modules>
+  </component>
+</project>
